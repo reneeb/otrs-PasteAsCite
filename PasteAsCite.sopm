@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package version="1.0">
+    <!-- GENERATED WITH OTRS::OPM::Maker::Command::sopm (1.33) -->
+    <Name>PasteAsCite</Name>
+    <Version>5.0.1</Version>
+    <Framework>4.0.x</Framework>
+    <Framework>5.0.x</Framework>
+    <Vendor>Perl-Services.de</Vendor>
+    <URL>http://www.perl-services.de</URL>
+    <Description Lang="de">Jeder in den Richtext-Editor kopierte Text wird als Zitat behandelt</Description>
+    <Description Lang="en">Every copypasted text in the richtext editor will be handled as a cite</Description>
+    <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
+    <Filelist>
+        <File Permission="644" Location="Kernel/Config/Files/PasteAsCite.xml" />
+        <File Permission="644" Location="doc/PasteAsCite.json" />
+        <File Permission="644" Location="doc/en/PasteAsCite.pod" />
+        <File Permission="644" Location="var/httpd/htdocs/js/PS.PasteAsCite.js" />
+    </Filelist>
+</otrs_package>
