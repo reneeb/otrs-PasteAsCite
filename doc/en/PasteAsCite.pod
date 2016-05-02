@@ -1,0 +1,19 @@
+=encoding utf-8
+
+=head1 NAME
+
+PasteAsCite
+
+=head1 DESCRIPTION
+
+This addon allows you to copy text from the "cited" text in the answer dialog (and others, too) and when you paste the
+text, it's still a cite.
+
+=head1 REPOSITORY AND BUGTRACKER
+
+The code repository and a bugtracker are available at L<http://github.com/reneeb/otrs-PrintSelectedArticles>.
+
+=head1 AUTHOR
+
+Renée Bäcker C<< <info@feature-addons.de> >>
+

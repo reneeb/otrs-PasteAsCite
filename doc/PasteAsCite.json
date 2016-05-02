@@ -1,0 +1,17 @@
+{
+    "name": "PasteAsCite",
+    "version": "5.0.1",
+    "framework": [
+        "4.0.x",
+        "5.0.x"
+    ],
+    "vendor": {
+        "name":  "Perl-Services.de",
+        "url": "http://www.perl-services.de"
+    },
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007",
+    "description" : {
+        "en": "Every copypasted text in the richtext editor will be handled as a cite",
+        "de": "Jeder in den Richtext-Editor kopierte Text wird als Zitat behandelt"
+    }
+}
