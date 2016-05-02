@@ -11,7 +11,7 @@ text, it's still a cite.
 
 =head1 REPOSITORY AND BUGTRACKER
 
-The code repository and a bugtracker are available at L<http://github.com/reneeb/otrs-PrintSelectedArticles>.
+The code repository and a bugtracker are available at L<http://github.com/reneeb/otrs-PasteOnCite>.
 
 =head1 AUTHOR
 
