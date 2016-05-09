@@ -1,0 +1,35 @@
+=encoding utf-8
+
+=head1 NÉV
+
+PasteAsCite - A RichText-szerkesztőben minden bemásolt szöveg idézetként lesz kezelve.
+
+=head1 LEÍRÁS
+
+Ez a kiegészítő lehetővé teszi az „idézett” szövegből történő szövegmásolást a válasz
+párbeszédablakba (és máshova is), és amikor beilleszti a szöveget, akkor az továbbra is idézet
+marad.
+
+=head1 KÖSZÖNETNYILVÁNÍTÁS
+
+=over 4
+
+=item * Úr Balázs, L<http://www.otrs-megoldasok.hu>
+
+Magyar fordítás
+
+=head1 FORRÁSKÓD ÉS HIBAKÖVETŐ
+
+A kódtároló és a hibakövető a L<https://github.com/reneeb/otrs-PasteAsCite> címen érhető el.
+
+=head1 SZERZŐ ÉS LICENC
+
+Szerző: Renée Bäcker, E<lt>otrs@perl-services.deE<gt>.
+
+Ez a modul AGPL 3.0 szerint licencelt. Ha nem kapta meg ezt a fájlt, akkor nézze meg a
+L<http://www.gnu.org/licenses/agpl.txt> oldalon.
+
+=head1 MAGYAR FORDÍTÁS
+
+A magyar fordítást az OTRS-megoldások csapata készítette.
+Copyright (C) 2016 Úr Balázs, L<http://otrs-megoldasok.hu>

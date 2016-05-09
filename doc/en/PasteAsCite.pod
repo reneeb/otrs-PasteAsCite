@@ -2,18 +2,28 @@
 
 =head1 NAME
 
-PasteAsCite
+PasteAsCite - Every copypasted text in the richtext editor will be handled as a cite.
 
 =head1 DESCRIPTION
 
-This addon allows you to copy text from the "cited" text in the answer dialog (and others, too) and when you paste the
-text, it's still a cite.
+This addon allows you to copy text from the "cited" text in the answer dialog (and others, too)
+and when you paste the text, it's still a cite.
 
-=head1 REPOSITORY AND BUGTRACKER
+=head1 ACKNOWLEDGEMENT
 
-The code repository and a bugtracker are available at L<http://github.com/reneeb/otrs-PasteOnCite>.
+=over 4
 
-=head1 AUTHOR
+=item * Balázs Úr, L<http://www.otrs-megoldasok.hu>
 
-Renée Bäcker C<< <info@feature-addons.de> >>
+Hungarian translation
 
+=head1 SOURCE CODE AND BUGTRACKER
+
+The code repository and a bugtracker are available at L<https://github.com/reneeb/otrs-PasteAsCite>.
+
+=head1 AUTHOR AND LICENSE
+
+Author: Renée Bäcker, E<lt>otrs@perl-services.deE<gt>.
+
+This module is licensed under the terms of AGPL 3.0. If you did not receive this file,
+see L<http://www.gnu.org/licenses/agpl.txt>.
